@@ -116,3 +116,18 @@
 <p align="center">
   <img src="https://hits.sh/github.com/djmbdev.svg?color=2b7fff&style=for-the-badge&label=Profile+Visits" alt="Profile Visits" />
 </p>
+
+##
+
+<!-- ========================================
+     FOOTER
+     ======================================== -->
+<br>
+
+<p align="center">
+  <em>"You cannot stop the waves, but you can learn to surf."</em>
+  <br>
+  <sub>Jon Kabat-Zinn</sub>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2b7fff&height=120&section=footer" alt="Ocean Wave">
