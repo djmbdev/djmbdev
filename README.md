@@ -65,6 +65,7 @@
   <a href="https://nextjs.org/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js"></a>
   <a href="https://ui.shadcn.com/" target="_blank"><img height="40" src="https://cdn.simpleicons.org/shadcnui/000000" alt="Shadcn UI" title="Shadcn UI"></a>
   <a href="https://www.framer.com/motion/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framermotion/framermotion-original.svg" alt="Framer Motion" title="Framer Motion"></a>
+  <a href="https://gsap.com/" target="_blank"><img height="40" src="https://cdn.simpleicons.org/greensock/88CE02" alt="GSAP" title="GSAP"></a>
   <a href="https://flutter.dev/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter"></a>
   <a href="https://dart.dev/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" title="Dart"></a>
   <a href="https://www.riverbankcomputing.com/software/pyqt/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="PyQt" title="PyQt"></a>
@@ -77,6 +78,7 @@
   <a href="https://www.php.net/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP"></a>
   <a href="https://laravel.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel"></a>
   <a href="https://nodejs.org/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js"></a>
+  <a href="https://expressjs.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" title="Express.js"></a>
   <a href="https://www.python.org/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"></a>
   <a href="https://en.cppreference.com/w/c" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C"></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#"></a>
